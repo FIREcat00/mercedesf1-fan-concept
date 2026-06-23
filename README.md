@@ -3,7 +3,7 @@
 A responsive fan-made Formula 1 team website concept inspired by the Mercedes-AMG PETRONAS Formula One Team.
 
 ## Live Demo
-[View the live website](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
+[View the live website](https://firecat00.github.io/mercedesf1-fan-concept/)
 
 ## Features
 - Responsive navigation
